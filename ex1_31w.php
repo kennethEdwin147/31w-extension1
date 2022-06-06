@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Extension de l'exercice #1
  * Author: kenneth Gbeti
- * Description: Une première extension pour l'exercice 1
- *Author URI: https://github.com/kennethEdwin147
+ * Description: Une nouvelle extension pour l'exercice 1
+ *Author URI: https://github.com/kennethEdwin147/31w-extension1
  */
 ?>
 <?php 
